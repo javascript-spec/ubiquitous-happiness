@@ -28,7 +28,4 @@ function binarySearch(arr, l, r, x){
 
 let arr = [ 2, 3, 4, 10, 40 ];
 let x = 10;
-let n = arr.length
-let result = binarySearch(arr, 0, n - 1, x);
-(result == -1) ? document.write( "Element is not present in array")
-				: document.write("Element is present at index " +result);
+let result = arr.map(arr => filter).document.write("Element is present at index " +result);
