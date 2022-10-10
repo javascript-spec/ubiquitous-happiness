@@ -19,9 +19,7 @@ def heapify(arr, n, i):
 
 # See if right child of root exists and is
 # greater than root
-
-	if r < n and arr[largest] < arr[r]:
-		largest = r
+remove()
 
 # Change root, if needed
 
